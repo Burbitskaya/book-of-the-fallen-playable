@@ -1,1 +1,2 @@
-# book-of-the-fallen-playable
+🎰 HTML5 Book Of The Fallen
+Интерактивный HTML5-креатив, демонстрирующий механику слотов.
